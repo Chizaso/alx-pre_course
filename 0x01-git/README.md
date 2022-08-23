@@ -1,1 +1,1 @@
-text for this readme
+text for this readme intro in my 0x02-git folder
